@@ -15,30 +15,30 @@ import (
 )
 
 type responseType struct {
-	Results results `json:"results"`
+	Results results
 }
 
 type results struct {
-	Shop []shop `json:"shop"`
+	Shop []shop
 }
 
 type shop struct {
-	Name    string `json:"name"`
-	Address string `json:"address"`
-	Photo   photo  `json:"photo"`
-	URLS    urls   `json:"urls"`
+	Name    string
+	Address string
+	Photo   photo
+	URLS    urls
 }
 
 type photo struct {
-	Mobile mobile `json:"mobile"`
+	Mobile mobile
 }
 
 type mobile struct {
-	L string `json:"l"`
+	L string
 }
 
 type urls struct {
-	PC string `json:"pc"`
+	PC string
 }
 
 func main() {
