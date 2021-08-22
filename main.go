@@ -103,7 +103,7 @@ func sendYakinikuRestaurantInfo(bot *linebot.Client, event *linebot.Event) {
 }
 
 func getYakinikuRestaurantInfo(latitude string, longitude string) []*linebot.CarouselColumn {
-	apikey := os.Getenv("TABELOG_API_KEY")
+	apikey := os.Getenv("HOTPEPPER_API_KEY")
 	searchWord := "焼肉"
 	endpoint := "https://webservice.recruit.co.jp/hotpepper/gourmet/v1/"
 
