@@ -1,6 +1,6 @@
-# LINE_SEARCH_YAKINIKU_RESTAURANT
+# 焼肉屋さん検索LINE BOT
 
-位置情報をLINEで送ることで近くにある焼肉屋さんを教えてくれるLINE Botです。
+位置情報をLINEで送ることで近くにある焼肉屋さんを教えてくれるLINE BOTです。
 
 ## 技術
 
