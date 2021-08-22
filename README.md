@@ -1,4 +1,4 @@
-# 焼肉屋さん検索LINE BOT
+# 焼肉屋さん検索LINE BOT(Yakiniku Sagasitai)
 
 位置情報を送れば近くの焼肉屋さんを教えてくれるLINE BOTです。サクッと近くの焼肉屋さんが知ることができます。
 
