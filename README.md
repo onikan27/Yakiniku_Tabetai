@@ -12,4 +12,6 @@
 - LINE API
 - ホットペッパー API
 
-<img src="https://user-images.githubusercontent.com/74908945/130352718-75b863a7-e4d5-45c9-a926-968ce2e41505.png" width="250px">
+## 使用イメージ
+
+<img src="https://user-images.githubusercontent.com/74908945/130357841-73bcc1ed-9caa-490e-8bec-8ee0116f7dae.jpg" width="250px">
